@@ -1,5 +1,5 @@
 # BE-PNT2-A-2022-II
-Repositorio de la clase de PNT2 A para el 2022-ii
+Repositorio de la clase de PNT2 A para el 2022-II
 
 # Consigna
 Para iniciar el proyecto vamos a crearnos una cuanta de github. A continuacion la siguiente consigna:
